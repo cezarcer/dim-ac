@@ -39,7 +39,8 @@ int main()
     struct astma120 tamanho;
     char singularidade[50];
     int conex;
-    printf( "Calculadora para calculo de dimensionamento de ar comprimido! \n" );
+    printf( "Dim-ac  Copyright (C) 2025  Julio Cezar Cerqueira Silva \n"
+            "Esse programa vem com ABSOLUTAMENTE NENHUMA GARANTIA; Este programa e gratis, você pode redistribuir em certas condições; Para detalhes va para https://www.gnu.org/licenses/gpl-3.0.html . \n");
 
     /*
      * Calculo de dimensionamento de ar comprimido com
